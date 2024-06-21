@@ -6,7 +6,6 @@ Installation and Navigation of Visual Studio Code (VS Code)
 Answer the following questions based on your understanding of the installation and navigation of Visual Studio Code (VS Code). Provide detailed explanations and examples where appropriate.
 
  Questions
- ![License Terms](./imagesfolder/1.jpg)
 
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
